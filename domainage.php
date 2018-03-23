@@ -1,5 +1,5 @@
 <?php
-
+//age domaine function
 class DomainAge{
 private $WHOIS_SERVERS=array(
 "com" => array("whois.verisign-grs.com","/Creation Date:(.*)/"),
